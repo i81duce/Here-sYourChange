@@ -5,6 +5,7 @@
       <mapping pattern="home" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
+      <mapping ext="iron" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
